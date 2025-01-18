@@ -6,5 +6,5 @@ password = " "
 
 for i in range(longitud):
     password += random.choice(elements)
-    print(i)
+    
 print(password)
