@@ -64,12 +64,6 @@ async def promo(ctx):
     await ctx.send('Prueba mi juego, Rouge-clickfood: https://hub.kodland.org/en/project/317776')
 
 
-@bot.command()
-async def sing(ctx):
-    """Sing My little pony:friendship is magic intro."""
-    await ctx.send('My litte pony, My little pony, ah ahh ahhh ahhhh, (My little pony), me preguntaba que era la amistad, (My little pony), hasta que su magía me quesieron dar, aventuras, diversión, es fuerte y fiel, de gran corazón, ser amable es la solución, la magía lo hace aún mejor porque es My little pony, y por siempre habrá una gran amistadddd, My little pony: La magía de la amistad')
-
-
 @bot.group()
 async def cool(ctx):
     """Says if a user is cool.
