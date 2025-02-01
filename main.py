@@ -63,4 +63,4 @@ async def on_message(message):
     elif message.content.startswith("$help"):
         await message.channel.send("Estos son todos los comandos que uso, $hello, $bye, $smash, $spoiler, $contexto, $HUB, $emoji, $pkmn, $coin, $amistad, $dice y $help")
 
-client.run("MTMzMjc5ODI0MjExMDU3NDYxMg.G6Jx2u.y-aEVoQJAOpVeyQYUSkRZ66r84UJbeTzXyXHUk")
+client.run("Token")
