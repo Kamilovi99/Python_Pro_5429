@@ -85,4 +85,4 @@ async def _bot(ctx):
     """Is the bot cool?"""
     await ctx.send('Yes, the bot is cool.')
 
-bot.run('MTMzMjc5ODI0MjExMDU3NDYxMg.G6Jx2u.y-aEVoQJAOpVeyQYUSkRZ66r84UJbeTzXyXHUk')
+bot.run('Token')
