@@ -108,4 +108,4 @@ async def meme(ctx):
     await ctx.send(file=picture)
 
 
-bot.run('MTMzMjc5ODI0MjExMDU3NDYxMg.GsNdZ0.LDwqgc3WfNbCgZ-tTXbwYZ7H8JK2iB5tA7fv7Y')
+bot.run('Inserte su token')
